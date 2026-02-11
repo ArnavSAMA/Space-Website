@@ -3,6 +3,7 @@ import Navbar from "@/components/sections/Navbar"
 import About from "./components/sections/About"
 import Core from "@/components/sections/core"
 import Global_Footprint from "@/components/sections/Global_Footprint"
+import Contact from "@/components/sections/Contact"
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
       <About />
       <Core />
       <Global_Footprint />
+      <Contact />
     </div>
   )
 }

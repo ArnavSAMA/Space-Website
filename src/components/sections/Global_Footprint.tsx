@@ -56,8 +56,6 @@ export default function Global() {
         </div>
       </div>
       
-      {/* Decorative Gradient Background behind the map */}
-      <div className="absolute bottom-0 w-full h-1/2 bg-gradient-to-t from-amber-500/10 to-transparent pointer-events-none" />
     </div>
   );
 }
